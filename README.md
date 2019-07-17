@@ -7,7 +7,7 @@ by connecting it to the internet and making it respond to the client’s GET req
 # Goal
  To develop a simple server on a smart device for any Internet client to query the sensor readings obtained on the smart device
  through the CoAP protocol. Used CoAP library to configure the environment for message ACK.
- to make the temperature sensor send the information, I had to hook up the temperature sensor to the Raspberry Pi and add provide sensor readings 
+ In order to make the temperature sensor send the information, I had to hook up the temperature sensor to the Raspberry Pi and add provide sensor readings 
  once a request was received from an internet client. 
  
  # circuit
